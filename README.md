@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=About%20Vincent&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=About%20Vincent&fontSize=50)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceforvincent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceforvincent)](https://github.com/anuraghazra/github-readme-stats)
 
