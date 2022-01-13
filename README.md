@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=About%20Vincent&fontSize=50)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceforvincent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceforvincent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 최혁주(Vincent) 
 #### 안녕하세요. 데이터 분석과 AI에 관한 지식과 기술을 토대로
