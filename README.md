@@ -5,7 +5,7 @@
 ### 최혁주(Vincent) 
 #### 안녕하세요. 데이터 분석과 AI에 관한 지식과 기술을 토대로
 #### 비즈니스에 기여하는 개발자를 꿈꾸는 Vincent, 최혁주입니다.
-##### ["Click here for knowing more about Vincent"](www.notion.so/aboutvincent)
+##### ["Click here for knowing more about Vincent"](www.notion.so/aboutvincent/)
 
 ##### 🏆 IT Project  
 
