@@ -14,6 +14,6 @@
 
 ##### 🧩 Skill  
 
-**Python (pandas, scikitlearn)**    
+**Python (pandas, scikitlearn 라이브러리를 활용한 데이터 랭글링 및 머신러닝 분류)**    
 
 [![insta](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/caesium_y/)](https://www.instagram.com/vct_c/)
