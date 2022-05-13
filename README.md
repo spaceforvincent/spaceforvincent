@@ -3,6 +3,9 @@
 #### 비즈니스에 기여하는 개발자를 꿈꾸는 Vincent, 최혁주입니다.
 ##### ["Click here for knowing more about Vincent"](https://aboutvincent.notion.site/Vincent-c6094829a16f49d99abe2bc76ade9b10)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={chj5356})](https://solved.ac/{chj5356})
+
 ##### 🏆 IT Project  
 
 | PERIOD | TITLE | SUBJECT |
