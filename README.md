@@ -11,8 +11,8 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
-| **2022.01.18~** | **삼성 청년SW아카데미(SSAFY) 7기** | [**관통프로젝트 : 일타무비 (영화추천 웹사이트)**](https://github.com/spaceforvincent/2022-Project-OneHitMovie) </br> [**공통프로젝트 : Book극성 (원스톱 도서관 키오스크 서비스)**](https://github.com/spaceforvincent/2022-Project-Book) </br> [**특화프로젝트 : 말해봐요, 알파곰 (한국어 및 한국 문화 학습용 게임 서비스)**](https://github.com/spaceforvincent/2022-Project-Alphagom)|
-| **2021.11** | **전국 대학생 ICT 프로젝트 경진대회 우수상** | [**온라인 강의 구독서비스의 플랫폼 특성이 사용자 선호도에 미치는 영향 분석**](https://github.com/spaceforvincent/2021-Project-ICT) |
+| **2022.01.18~** | **삼성 청년SW아카데미(SSAFY) 7기** | [**관통프로젝트 : 일타무비 (영화추천 웹사이트)**](https://github.com/spaceforvincent/2022-Project-OneHitMovie) </br> [**공통프로젝트 : Book극성 (원스톱 도서관 키오스크 서비스)**](https://github.com/spaceforvincent/2022-Project-Book) </br> [**특화프로젝트 : 말해봐요, 알파곰 (한국어 및 한국 문화 학습 게임)**](https://github.com/spaceforvincent/2022-Project-Alphagom)|
+| **2021.11** | **전국 대학생 ICT 프로젝트 경진대회 우수상** | [**온라인 강의 플랫폼의 특성이 사용자 선호도에 미치는 영향 분석**](https://github.com/spaceforvincent/2021-Project-ICT) |
 | **2021.08** | **창원시 빅데이터 공모전 최우수상** | [**AI를 활용한 창원시 맞춤 치안지도 서비스**](https://github.com/spaceforvincent/2021-Project-Police) |
 
 ##### 💻 IT Certificate  
