@@ -28,6 +28,4 @@
 
 
 ##### 🧩 Skill  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=for-the-badge&logo=Scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"><img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=for-the-badge&logo=Scikitlearn&logoColor=white">
