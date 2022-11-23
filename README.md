@@ -1,7 +1,7 @@
 ### 최혁주(Vincent) 
 #### 안녕하세요. 데이터 분석과 AI에 관한 지식과 기술을 토대로
 #### 비즈니스에 기여하는 개발자를 꿈꾸는 Vincent, 최혁주입니다.
-##### [노션](https://aboutvincent.notion.site/Vincent-c6094829a16f49d99abe2bc76ade9b10)
+[![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.com/caesium_y/)](https://aboutvincent.notion.site/Vincent-c6094829a16f49d99abe2bc76ade9b10)
 ##### [자체 제작 포트폴리오 사이트](https://thestarrydays.vercel.app/)
 ##### [유튜브](https://www.youtube.com/c/%EB%B9%88%EC%8E%88%ED%8A%B8)
 [![insta](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/caesium_y/)](https://www.instagram.com/vct_c/)
@@ -28,4 +28,4 @@
 
 
 ##### 🧩 Skill  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"><img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=for-the-badge&logo=Scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=for-the-badge&logo=Scikitlearn&logoColor=white">
