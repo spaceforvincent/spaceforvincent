@@ -1,7 +1,7 @@
 ### 최혁주(Vincent) 
 #### 안녕하세요. 데이터 분석과 AI에 관한 지식과 기술을 토대로
 #### 비즈니스에 기여하는 개발자를 꿈꾸는 Vincent, 최혁주입니다.
-[![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.com/caesium_y/)](https://aboutvincent.notion.site/Vincent-c6094829a16f49d99abe2bc76ade9b10) [![youtube](https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/caesium_y/)](https://www.youtube.com/c/%EB%B9%88%EC%8E%88%ED%8A%B8) [![insta](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/caesium_y/)](https://www.instagram.com/vct_c/)
+[![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.com/caesium_y/)](https://aboutvincent.notion.site/Vincent-c6094829a16f49d99abe2bc76ade9b10) [![velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://www.velog.io/caesium_y/)](https://velog.io/@spaceforvincent) [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/caesium_y/)](https://www.youtube.com/c/%EB%B9%88%EC%8E%88%ED%8A%B8) [![insta](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/caesium_y/)](https://www.instagram.com/vct_c/)
 
 ##### [자체 제작 포트폴리오 사이트](https://thestarrydays.vercel.app/)
 
