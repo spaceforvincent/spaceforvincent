@@ -4,8 +4,6 @@
 <div align=center>
   
 #### 안녕하세요. 세심하고 센스있는 개발자, 최혁주입니다. 
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chj5356)](https://solved.ac/chj5356)
 
 [![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.com/caesium_y/)](https://aboutvincent.notion.site/Vincent-c6094829a16f49d99abe2bc76ade9b10) [![velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://www.velog.io/caesium_y/)](https://velog.io/@spaceforvincent) [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/caesium_y/)](https://www.youtube.com/c/%EB%B9%88%EC%8E%88%ED%8A%B8) [![insta](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/caesium_y/)](https://www.instagram.com/vct_c/) [![devsta](https://img.shields.io/badge/devstagram-05CC47?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/caesium_y/)](https://www.instagram.com/feelossafy/)
 
